@@ -22,6 +22,8 @@ creator:
     - http://fr.wikipedia.org/wiki/Georges_Bizet
     - http://en.wikipedia.org/wiki/Georges_Bizet
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/22918#Lettres---un-ami-1865-1872
 gutenberg_bookshelf:
 - FR Musique
 - FR Biographie, Mémoires, Journal intime, Correspondance
